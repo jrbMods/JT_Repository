@@ -1,0 +1,9 @@
+/file alice document C:\Users\jerryrebuild\Desktop\test_file.txt
+
+/msg alice hey there
+
+hardcode users
+
+alice / password1
+bob / password2
+ivan / password3
